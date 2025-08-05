@@ -1,3 +1,4 @@
+//To display n number of natural numbers and their sum
 import java.util.*;
 public class naturalnumber {
     public static void main(String[] args) {
