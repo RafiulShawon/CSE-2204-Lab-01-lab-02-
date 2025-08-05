@@ -1,3 +1,4 @@
+//to print the following pattern till n number of user input
 import java.util.*;
 public class pattern1 {
     public static void main(String[] args) {
