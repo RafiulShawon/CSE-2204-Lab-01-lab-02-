@@ -1,3 +1,5 @@
+//to read the matrix of size m*n from the keyboard and display the same on the screen usinf the function
+
 import java.util.*;
 public class matrix {
     static int[][]readmatrix(int m, int n, Scanner sc){
