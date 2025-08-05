@@ -1,3 +1,4 @@
+//to print the floyd's triangle till n number of user input
 import java.util.*;
 public class floydTriangle {
     public static void main(String[] args) {
